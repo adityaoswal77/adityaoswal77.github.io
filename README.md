@@ -2,4 +2,4 @@
 
 # Aditya Oswal
 
-## I am a FInal Year Engineering student currently majoring in Computer Science and Engineering.
+## I am a Final Year Engineering student currently majoring in Computer Science and Engineering.
